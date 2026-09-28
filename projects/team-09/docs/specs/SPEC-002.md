@@ -2,7 +2,7 @@
 
 > **Team:** Team 09  
 > **Sprint:** Sprint 02  
-> **Status:** Validada tecnicamente; revisão humana pendente  
+> **Status:** Validada tecnicamente; explicação prevista na avaliação presencial  
 > **Related Sprint:** [SPRINT-02.md](../../SPRINT-02.md)
 
 ## 1. Context
