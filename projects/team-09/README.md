@@ -16,6 +16,7 @@ Estudantes com pouco tempo disponível podem adiar o estudo por não saberem com
 ## Versão desta branch
 
 Sprint 02: Adicionamos a escolha entre 15, 25 e 45 minutos. A opção inicial é 25 minutos, e o resumo acompanha a seleção. Apenas uma opção pode ficar selecionada por vez.
+Sprint 00: Configuramos o ambiente Android e criamos uma aplicação mínima em Kotlin com Jetpack Compose. O projeto foi compilado e executado no emulador.
 
 O escopo até a sprint 3 é apresentar o aplicativo, selecionar a duração e consultar o plano de estudo. Cronômetro, histórico, banco de dados, login e integrações externas ficam fora desta entrega.
 
