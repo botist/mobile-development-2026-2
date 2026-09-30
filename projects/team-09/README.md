@@ -16,6 +16,7 @@ Estudantes com pouco tempo disponível podem adiar o estudo por não saberem com
 ## Versão desta branch
 
 Sprint 01: Definimos o produto Ritmo e implementamos a tela inicial com nome, slogan, descrição, cartão de foco e botão “Planejar meu estudo”. Nesta sprint, a ação do botão ainda não possui comportamento.
+Sprint 00: Configuramos o ambiente Android e criamos uma aplicação mínima em Kotlin com Jetpack Compose. O projeto foi compilado e executado no emulador.
 
 O escopo até a sprint 3 é apresentar o aplicativo, selecionar a duração e consultar o plano de estudo. Cronômetro, histórico, banco de dados, login e integrações externas ficam fora desta entrega.
 
